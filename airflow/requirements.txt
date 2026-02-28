@@ -1,0 +1,6 @@
+apache-airflow==2.7.0
+apache-airflow-providers-dbt-cloud
+dbt-core
+dbt-postgres
+pandas
+sqlalchemy
